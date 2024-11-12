@@ -77,7 +77,11 @@ footer {
         flex-direction: column;
     }
     iframe{
-        width: auto;
+        
+        width: 10%;
+        height: 50%;
+    
+    
     
     }
     .presentacion , .slider {
