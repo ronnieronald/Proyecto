@@ -76,6 +76,10 @@ footer {
     .imframe{
         flex-direction: column;
     }
+    iframe{
+        width: auto;
+    
+    }
     .presentacion , .slider {
         padding: 0% auto;
         width: auto;
